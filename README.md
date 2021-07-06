@@ -8,7 +8,7 @@ Hello World Microverse
 
 ## Live Demo
 
-[Hello Wold Microverse Demo Link](https://bernyhas.github.io/Hello-Microverse-World/)
+[Hello Wold Microverse Demo Link] https://bernyhas.github.io/Hello-Microverse-World/
 
 ## Getting Started
 
